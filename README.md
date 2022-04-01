@@ -6,7 +6,6 @@
 
 Skills: THREE.JS/ PY / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
 
 
 
