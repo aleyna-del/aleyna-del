@@ -1,21 +1,21 @@
+### Hi there 👋, My name is Aleyna:
+#### This is my about github section.
 <div align="center">
-<img src="https://img.wattpad.com/abdcfe0036cd58b5f4a2e89c3295a6faeb17a5ee/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f374d6534643971686f71584159673d3d2d3831363530343730352e313565323236663735373962616362343431343734343533303030382e676966" align="center" style="width: 100%" />
+<img src="https://media.discordapp.net/attachments/957265762341515264/962703053000179772/Aleyna-Dev.png" align="center" style="width: 100%" />
 </div>  
-  
 
-### <div align="center">Merhaba, ben Aleyna. Python-opencv geliştiricisiyim. 👨‍💻 3 yıldır bu alanda çalışıyorum. 🚀</div>  
-  
+I am 18 years old and I have been developing myself in the field of software and robotic coding for 6 years.
 
-- 🔭 Benim glitch projelerim. [Glitch](https://glitch.com/dashboard?group=owned&sortColumn=boost&sortDirection=DESC&page=1&showAll=false&filterDomain=)  
-  
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning ;game development. 
+- ⚡ Fun fact:  this is my world, welcome... 
 
-- 🌱 13 yaşımda robotik kodlama öğrenmeye başladım.  
-  
 
-- ❓ 14 yaşımda tamamıyla yazılımın içindeydim.  
-  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aleyna-del)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/sila._.aleyna)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Selbi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Sıla-Aleyna-Selbi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/dev_aleyna.py/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/sila-aleyna)  
 
-- ⚡ Eğlenceli: Bu benim gezegenim. 👆  
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=aleyna-del)](https://github.com/ryo-ma/github-profile-trophy)
   
 
 <br/>  
@@ -100,56 +100,14 @@
 <br/>  
 
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/Aleyna-del" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://codepen.com/sila-aleyna" target="_blank">
-<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/Sıla Aleyna Selbi" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/Sıla Aleyna" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/dev_aleyna.py" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleyna-del)](https://github.com/anuraghazra/github-readme-stats)
 
-<br/>  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aleyna-del&show_icons=true)  
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aleyna-del)  
 
-## Github Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Aleyna-del&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
+![GitHub metrics](https://metrics.lecoq.io/aleyna-del)  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleyna-del&hide_border=true&layout=compact" align="center" />  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aleyna-del)  
 
-
-  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31tu6sjwhpzyq4guxjxns4xgv254&cover_image=true&theme=default&bar_color=ba00c7" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Aleyna-del&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-
-
-
-
-
-
-
-
+![Profile views](https://gpvc.arturio.dev/aleyna-del)  
